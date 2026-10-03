@@ -9,3 +9,7 @@ some lib are dyamic and wont have correct dependency list
 
 enjoy using termux natively with these, i might list depends wrong but hopefully it should be easy to figure out.
 I hate having to go into proot and get a slower speed so I do this kind of thing instead of using proot.
+
+in the releases are:
+Kicad
+LMMS
